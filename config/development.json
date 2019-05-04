@@ -1,0 +1,11 @@
+{
+  "haloConfig": {
+    "dbConfig": {
+      "host": "localhost",
+      "dbName": "<ENTER YOUR DATABSE NAME>",
+      "userName": "postgres",
+      "password": "<ENTER YOUR DATABSE PASSWORD>",
+      "dialect": "postgres"
+    }
+  }
+}
